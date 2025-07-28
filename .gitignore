@@ -1,0 +1,11 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pkl
+*.db
+*.log
+.env
+weaviate_data/
+.vscode/
+.idea/
+*.bak
