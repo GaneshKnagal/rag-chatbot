@@ -1,11 +1,10 @@
-# .gitignore
+venv/
 __pycache__/
 *.pyc
-*.pkl
-*.db
+*.zip
 *.log
+.aws/
 .env
-weaviate_data/
-.vscode/
-.idea/
-*.bak
+.DS_Store
+*.sqlite3
+*.egg-info/
