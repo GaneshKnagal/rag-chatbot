@@ -69,7 +69,7 @@ multidict==6.6.3
 mypy_extensions==1.1.0
 narwhals==2.0.0
 networkx==3.2.1
-numpy==2.0.2
+numpy>=2.1.0,<2.4
 ollama==0.5.1
 openai==1.97.1
 orjson==3.11.1
